@@ -1,4 +1,4 @@
-balance = 320000
+balance = 325600
 annualInterestRate = 0.2
 MonthlyInterestRate = annualInterestRate / 12.0
 MonthlyPayment_low = balance / 12
